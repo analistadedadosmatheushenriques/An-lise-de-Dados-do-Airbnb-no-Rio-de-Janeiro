@@ -1,0 +1,1 @@
+Este projeto teve como objetivo realizar a limpeza, transformação e análise de dados de anúncios do Airbnb no Rio de Janeiro. A ideia era aplicar técnicas de manipulação de dados em python para entender melhor o mercado de hospedagem, identificar padrões e tendências e preparar os dados para futuras análises ou modelagem preditiva.
